@@ -49,10 +49,19 @@ Se você tem permissão para usar este código, siga os passos:
 
 ```bash
 apt update && apt upgrade -y
+
 pkg install nodejs -y
+
 pkg install ffmpeg -y
+
 pkg install imagemagick -y
-git clone [https://github.com/bennysoares01-commits/AckermanBot-md](https://github.com/bennysoares01-commits/AckermanBot-md)
+
+git clone [https://github.com/bennysoares01-commits/AckermanBot-md]
+
+(https://github.com/bennysoares01-commits/AckermanBot-md)
+
 cd AckermanBot-md
+
 npm install
-node index.js
+
+npm start
