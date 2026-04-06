@@ -36,7 +36,7 @@ Este repositório possui **Proteção Ativa de Créditos**:
 ---
 
 ## 👨‍💻 DESENVOLVEDOR (COMMANDER)
-O gênio por trás das linhas de código é o **Benny**. Entre em contato para parcerias, compra de bots personalizados ou suporte:
+O cara por trás das linhas de código é o **Benny**. Entre em contato para parcerias, compra de bots personalizados ou suporte:
 
 * **📱 WhatsApp:** [+55 91 8162-6178](https://wa.me/559181626178)
 * **📸 Instagram:** [@bennysuarezzz](https://instagram.com/bennysuarezzz)
