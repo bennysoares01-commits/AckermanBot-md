@@ -11,7 +11,7 @@ module.exports = {
     name: 'ship',
     category: 'diversao',
     description: 'Vê a chance de um casal dar certo.',
-    alias: ['casal', 'amor'],
+    alias: ['shipp', 'amor'],
     async execute(sock, msg, args, { from, isGroup, reply, prefixo }) {
         if (!isGroup) return reply("❌ Apenas em grupos.");
 
