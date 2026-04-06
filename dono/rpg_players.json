@@ -1,0 +1,20 @@
+{
+  "92724686491725": {
+    "nome": "Soldado",
+    "level": 1,
+    "xp": 107,
+    "hp": 100,
+    "maxHp": 100,
+    "moedas": 228,
+    "inventario": {
+      "madeira": 5,
+      "ferro": 3,
+      "couro": 0,
+      "gas": 0,
+      "aco": 0
+    },
+    "ultimoColetar": 1775082869227,
+    "ultimoCacar": 1775083344914,
+    "vitorias": 1
+  }
+}

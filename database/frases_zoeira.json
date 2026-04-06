@@ -1,0 +1,74 @@
+{
+  "bct": {
+    "notas": [
+      "O paraíso tem nome.", "Fogo que não apaga.", "Um monumento de prazer.", "Impossível resistir.", "Obra de arte da natureza.",
+      "O sonho de qualquer soldado.", "Nível de perfeição: 100%.", "Desejo absoluto.", "Um espetáculo visual.", "A cura para a tristeza.",
+      "Pura sedução física.", "O convite pro pecado.", "Beleza que hipnotiza.", "O centro das atenções.", "Pura luxúria.",
+      "Desejo ardente.", "Um tesouro escondido.", "Nível de fogo: Explosivo.", "A perfeição existe.", "O sonho realizado.",
+      "Pura adrenalina.", "Um convite irresistível.", "Beleza sem igual.", "O alvo de todos os olhares.", "Pura paixão.",
+      "Desejo incontrolável.", "Um monumento de beleza.", "Fogo que consome.", "Perfeição em cada detalhe.", "O ápice do prazer.",
+      "Pura tentação carnal.", "Um brilho sem fim.", "Beleza de outro mundo.", "O desejo supremo.", "Pura sedução constante.",
+      "Desejo de elite.", "Um espetáculo da natureza.", "Fogo nível vulcão.", "A perfeição absoluta.", "O sonho de consumo.",
+      "Pura magia física.", "Um convite ao delírio.", "Beleza estonteante.", "O alvo do desejo.", "Pura perfeição.",
+      "Relíquia sagrada.", "Fonte da juventude.", "Oitava maravilha.", "Patrimônio da humanidade.", "Obra-prima divina."
+    ],
+    "largura_frases": [
+      "Portinha de castelo, ninguém passa.",
+      "Padrão FIFA, bem conservada.",
+      "Túnel do Rebouças em dia de feriado.",
+      "Passa um comboio de Titã sem encostar.",
+      "O Grand Canyon é fichinha perto desse buraco."
+    ]
+  },
+  "puta": {
+    "notas": [
+      "A maior do bairro!", "O golpe tá aí, cai quem quer.", "Mestra na arte de iludir.", "Não vale o que o gato enterra.", "Safada de carteirinha.",
+      "O perigo em pessoa.", "Coração de gelo, fogo por dentro.", "Mestra da manipulação.", "Ninguém escapa do laço.", "A dona da rua.",
+      "Sedução em cada olhar.", "O golpe mais lindo que já vi.", "A inimiga do fim.", "Rainha das noitadas.", "Sabe jogar o jogo.",
+      "Perigosa e atraente.", "O terror dos casados.", "A braba da sedução.", "Não se apega, só se diverte.", "Mestra em quebrar corações.",
+      "A vilã que a gente ama.", "Pura provocação.", "Rainha do camarote.", "Safadeza nota 10.", "A que manda no pedaço.",
+      "Não tem coração, tem um iceberg.", "Sedução nível elite.", "A maior vigarista.", "Sabe esconder o jogo.", "Safada com classe.",
+      "A dona dos contatinhos.", "Mestra da ilusão.", "O veneno mais doce.", "A que nunca perde a pose.", "Safadeza pura e simples.",
+      "A rainha da manipulação.", "Sedução sem limites.", "A dona da festa.", "Safada nível mestre.", "O golpe perfeito.",
+      "A rainha da malandragem.", "Sedução fatal.", "A maior de todas.", "Mestra do motel.", "Doutorada em safadeza.",
+      "Inimiga do INSS de tanto que trabalha.", "Vigarista profissional.", "Coração de pedra e mente de fogo.", "Dona do cabaré.", "A elite da sedução."
+    ],
+    "experiencia_frases": [
+      "Iniciante no ramo.", "Já conhece os atalhos.", "Veterana das noitadas.", "Lenda viva do asfalto."
+    ]
+  },
+  "hetero": {
+    "notas": [
+      "Hétero nível Capitão Levi.", "Puro suco de masculinidade.", "Duvidoso... muito duvidoso.", "Macho alfa das muralhas.", "Hétero top de linha.",
+      "Inabalável como a Muralha Maria.", "Exala testosterona.", "Não nega as raízes.", "A masculinidade brilha aqui.", "Um exemplo de virilidade.",
+      "Olhar de predador.", "Hétero raiz, sem frescura.", "Postura de comando.", "O último dos românticos.", "Braço de ferro puro.",
+      "Macho para toda obra.", "Inimigo do perigo.", "Hétero de respeito.", "Foco total na missão.", "Nível de masculinidade: Infinito.",
+      "O terror das novinhas.", "Corpo de soldado, mente de mestre.", "Hétero 5 estrelas.", "A prova de falhas.", "Um cara de palavra.",
+      "Macho alfa dominante.", "Sinal de hétero forte detectado.", "Respeitado em Paradis.", "Um verdadeiro herói.", "Bruto, rústico e sistemático.",
+      "Sem tempo para gracinha.", "A cara do sucesso.", "Hétero de alta voltagem.", "Nascido para ser líder.", "Estilo clássico e pesado.",
+      "O brabo tem nome.", "Masculinidade nível Deus.", "Não foge da raia.", "O mestre da conquista.", "Hétero certificado pelo bot.",
+      "Resistência máxima.", "Firme como uma rocha.", "O dono da porra toda.", "Sempre na vanguarda.", "Hétero de elite.",
+      "Macho nível lendário.", "Força e honra sempre.", "O cara é uma máquina.", "Hétero de ferro.", "Inimigo da moda."
+    ],
+    "postura_frases": [
+      "Postura de comando.", "Abalado emocionalmente.", "Inabalável como a muralha.", "Hétero raiz."
+    ]
+  },
+  "lesbica": {
+    "notas": [
+      "Uma deusa, uma louca!", "Nível Mikasa Ackerman de força.", "O radar disparou aqui!", "Pura atitude.", "Dona do próprio destino.",
+      "Guerreira de elite.", "Estilo e poder.", "Não precisa de ninguém.", "A braba das brabas.", "Foco total na sua meta.",
+      "Mikasa ficaria orgulhosa.", "Força feminina absoluta.", "Independente e poderosa.", "Um ícone de estilo.", "Atitude que intimida.",
+      "Pura elegância e força.", "A rainha da porra toda.", "Nível de radar: Máximo.", "Guerreira das muralhas.", "Um exemplo de coragem.",
+      "Dona da sua história.", "Atitude nível Ackerman.", "Sempre no comando.", "A meta é ser feliz.", "Firmeza em cada passo.",
+      "Estilo único e marcante.", "Guerreira por natureza.", "Pura vibe positiva.", "A determinação em pessoa.", "Sempre à frente do tempo.",
+      "Nível de poder: 9000.", "Não aceita menos que tudo.", "A dona do jogo.", "Atitude de sobra.", "Um brilho que cega.",
+      "Guerreira indomável.", "Liderança nata.", "A força que move o mundo.", "Sempre pronta pro combate.", "Um exemplo de liberdade.",
+      "Mikasa no comando.", "A brava tem nome.", "Estilo impecável.", "Força e beleza.", "Dona da liberdade.",
+      "Atitude que inspira.", "Guerreira de coração.", "A rainha do grupo.", "Pura determinação.", "Nível lendário."
+    ],
+    "vibe_frases": [
+      "Vibe de dominadora.", "Sutil e perigosa.", "Coração de gelo.", "Puro charme."
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+⚔️ INSTALAÇÃO DO ACKERMAN-BOT NO TERMUX ⚔️
+copie e cole no termux e dê ENTER 
+
+1- Atualizar o sistema do Termux:
+pkg update && pkg upgrade -y
+
+2- Dar permissão de armazenamento (opcional):
+termux-setup-storage
+
+3- Instalar o Node.js (necessário para rodar o bot):
+pkg install nodejs -y
+
+4- Instalar o Git e o FFmpeg
+pkg install git ffmpeg -y
+
+5- Entrar na pasta do bot
+cd /storage/emulated/0/Download/AckermanBot-md
+
+6- Instalar todas as dependências de uma vez:
+npm install
+
+7- Ligar o bot:
+npm start 

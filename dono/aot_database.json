@@ -1,0 +1,82 @@
+[
+  {
+    "id": "levi_ackerman",
+    "nome": "Levi Ackerman",
+    "perfil": 1,
+    "valor": 1,
+    "sinopse": "O soldado mais forte da humanidade. Uma força da natureza imparável dentro de um corpo disciplinado.",
+    "porque": "Sua frieza e precisão são lendárias. Você não hesita em tomar decisões difíceis e sua lealdade é demonstrada através de ações, não de palavras vazias."
+  },
+  {
+    "id": "eren_yeager",
+    "nome": "Eren Yeager",
+    "perfil": 2,
+    "valor": 2,
+    "sinopse": "O portador do Titã de Ataque. Aquele que busca a liberdade acima de todas as correntes do mundo.",
+    "porque": "Sua determinação beira a obsessão. Você possui uma chama interna que ninguém consegue apagar e está disposto a destruir o mundo para proteger o que ama."
+  },
+  {
+    "id": "mikasa_ackerman",
+    "nome": "Mikasa Ackerman",
+    "perfil": 1,
+    "valor": 2,
+    "sinopse": "A guardiã implacável. Uma guerreira cujo talento natural só é superado por sua devoção aos seus entes queridos.",
+    "porque": "Você é o escudo e a espada. Sua força nasce do desejo de proteger, e uma vez que você escolhe um lado, nada na terra pode te fazer recuar."
+  },
+  {
+    "id": "armin_arlert",
+    "nome": "Armin Arlert",
+    "perfil": 3,
+    "valor": 3,
+    "sinopse": "O estrategista brilhante. A prova de que a mente é a arma mais poderosa contra qualquer gigante.",
+    "porque": "Sua inteligência é sua bússola. Você enxerga o que os outros ignoram e entende que para vencer um monstro, às vezes é preciso sacrificar sua própria humanidade."
+  },
+  {
+    "id": "erwin_smith",
+    "nome": "Erwin Smith",
+    "perfil": 3,
+    "valor": 1,
+    "sinopse": "O Comandante lendário. Um líder que carrega o peso de mil mortes nos ombros sem nunca vacilar no comando.",
+    "porque": "Você é um mestre da estratégia e do sacrifício. Sua voz inspira coragem até nos corações mais covardes, e seu olhar está sempre fixo no horizonte da verdade."
+  },
+  {
+    "id": "hange_zoe",
+    "nome": "Hange Zoë",
+    "perfil": 4,
+    "valor": 3,
+    "sinopse": "A mente curiosa da Tropa. Uma cientista que encontra fascínio onde os outros só veem terror.",
+    "porque": "Sua energia é contagiante e sua mente é um labirinto de ideias. Você resolve problemas através da curiosidade e nunca aceita um 'não' como resposta da ciência."
+  },
+  {
+    "id": "reiner_braun",
+    "nome": "Reiner Braun",
+    "perfil": 2,
+    "valor": 1,
+    "sinopse": "O Titã Blindado. Um guerreiro dividido entre o dever e a culpa, carregando as cicatrizes de dois mundos.",
+    "porque": "Você é resiliente e protetor. Apesar de suas batalhas internas, você assume a responsabilidade pelos outros e se mantém de pé mesmo quando o mundo desaba."
+  },
+  {
+    "id": "sasha_blouse",
+    "nome": "Sasha Blouse",
+    "perfil": 4,
+    "valor": 4,
+    "sinopse": "A garota da batata. Uma caçadora nata com instintos puramente animais e um coração de ouro.",
+    "porque": "Sua intuição nunca falha. Você valoriza os prazeres simples da vida e traz leveza para os momentos mais sombrios da tropa com sua honestidade bruta."
+  },
+  {
+    "id": "jean_kirstein",
+    "nome": "Jean Kirstein",
+    "perfil": 1,
+    "valor": 1,
+    "sinopse": "O líder realista. Alguém que enxerga a realidade como ela é, mas escolhe lutar mesmo assim.",
+    "porque": "Você evoluiu de um egoísta para um líder altruísta. Sua capacidade de avaliar riscos e sua honestidade sobre o medo fazem de você um soldado confiável."
+  },
+  {
+    "id": "annie_leonhart",
+    "nome": "Annie Leonhart",
+    "perfil": 1,
+    "valor": 2,
+    "sinopse": "A Titã Fêmea. Uma loba solitária mestre em combate corpo a corpo que só deseja voltar para casa.",
+    "porque": "Você é independente e extremamente capaz. Não precisa da aprovação de ninguém e prefere a eficiência do silêncio ao barulho das massas."
+  }
+]

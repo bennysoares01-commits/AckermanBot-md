@@ -1,0 +1,272 @@
+[
+  {
+    "id": "harry_potter",
+    "nome": "Harry Potter",
+    "casa": 1,
+    "sangue": 3,
+    "caracteristica": 1,
+    "sinopse": "O Menino que Sobreviveu e o líder natural da Armada de Dumbledore. Um bruxo marcado pelo destino, mas definido por suas escolhas corajosas.",
+    "porque": "Você possui uma coragem inata e um senso de justiça que o obriga a agir, mesmo quando as chances estão contra você. Sua lealdade aos amigos é seu maior escudo."
+  },
+  {
+    "id": "hermione_granger",
+    "nome": "Hermione Granger",
+    "casa": 1,
+    "sangue": 1,
+    "caracteristica": 3,
+    "sinopse": "A mente mais brilhante de Hogwarts. Uma defensora incansável dos direitos dos injustiçados e mestre em feitiços complexos.",
+    "porque": "Sua inteligência é sua bússola. Você acredita que o conhecimento e a preparação são as chaves para vencer qualquer batalha, mas seu coração é tão grande quanto seu cérebro."
+  },
+  {
+    "id": "ron_weasley",
+    "nome": "Rony Weasley",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 4,
+    "sinopse": "O coração do trio. Alguém que enfrentou suas inseguranças e fobias para se tornar um herói e um estrategista de xadrez bruxo incomparável.",
+    "porque": "Você é a alma do grupo. Seu valor reside na sua capacidade de apoiar os outros e na sua coragem silenciosa de estar presente quando mais precisam de você."
+  },
+  {
+    "id": "alvo_dumbledore",
+    "nome": "Alvo Dumbledore",
+    "casa": 1,
+    "sangue": 3,
+    "caracteristica": 3,
+    "sinopse": "O maior diretor que Hogwarts já teve. Um gênio estrategista que sempre jogou o 'longo jogo' contra as trevas.",
+    "porque": "Você é um visionário. Possui uma sabedoria que vem da experiência e entende que, às vezes, escolhas difíceis são necessárias para o bem maior."
+  },
+  {
+    "id": "severo_snape",
+    "nome": "Severo Snape",
+    "casa": 2,
+    "sangue": 3,
+    "caracteristica": 2,
+    "sinopse": "O Príncipe Mestiço. Um homem de segredos profundos e lealdade inabalável, escondido sob uma máscara de frieza.",
+    "porque": "Sua complexidade é sua marca. Você é capaz de sacrifícios imensos em nome do que acredita, mesmo que ninguém reconheça seus esforços de imediato."
+  },
+  {
+    "id": "draco_malfoy",
+    "nome": "Draco Malfoy",
+    "casa": 2,
+    "sangue": 2,
+    "caracteristica": 2,
+    "sinopse": "O herdeiro da linhagem Malfoy. Alguém dividido entre a expectativa da família e sua própria consciência durante tempos sombrios.",
+    "porque": "Você é ambicioso e estratégico. Valoriza sua posição, mas possui uma profundidade emocional que muitas vezes entra em conflito com as regras que lhe impuseram."
+  },
+  {
+    "id": "luna_lovegood",
+    "nome": "Luna Lovegood",
+    "casa": 3,
+    "sangue": 3,
+    "caracteristica": 4,
+    "sinopse": "Uma alma livre e excêntrica. Luna vê o que os outros ignoram e possui uma serenidade inabalável diante do julgamento alheio.",
+    "porque": "Você é autêntico e único. Sua perspectiva de mundo não segue padrões, o que faz de você uma pessoa criativa, honesta e extremamente empática."
+  },
+  {
+    "id": "voldemort",
+    "nome": "Lord Voldemort",
+    "casa": 2,
+    "sangue": 3,
+    "caracteristica": 2,
+    "sinopse": "O Lorde das Trevas. Um bruxo de poder incomparável que buscou a imortalidade e o domínio absoluto através do medo.",
+    "porque": "Sua força de vontade é absoluta. Você não aceita mediocridade e está disposto a ir além dos limites conhecidos para alcançar a grandeza que acredita merecer."
+  },
+  {
+    "id": "sirius_black",
+    "nome": "Sirius Black",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 1,
+    "sinopse": "Almofadinhas. O rebelde que renegou a supremacia de sangue de sua família para lutar pelo que é certo ao lado de seus verdadeiros irmãos.",
+    "porque": "Sua rebeldia é alimentada por um forte senso moral. Você prefere a liberdade e o perigo a viver uma vida de mentiras e preconceitos."
+  },
+  {
+    "id": "bellatrix_lestrange",
+    "nome": "Bellatrix Lestrange",
+    "casa": 2,
+    "sangue": 2,
+    "caracteristica": 2,
+    "sinopse": "A mais temida Comensal da Morte. Uma guerreira de devoção fanática e habilidades em duelos que beiram a perfeição.",
+    "porque": "Você é intenso e devoto. Quando acredita em uma causa ou líder, entrega-se de corpo e alma, sem medo das consequências ou da opinião pública."
+  },
+  {
+    "id": "neville_longbottom",
+    "nome": "Neville Longbottom",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 1,
+    "sinopse": "O garoto esquecido que se tornou um general. Provou que a coragem não é a ausência de medo, mas o triunfo sobre ele.",
+    "porque": "Você é um exemplo de resiliência. Sua força floresce nos momentos de maior pressão, mostrando que qualquer um pode se tornar um herói."
+  },
+  {
+    "id": "cedrico_diggory",
+    "nome": "Cedrico Diggory",
+    "casa": 4,
+    "sangue": 3,
+    "caracteristica": 4,
+    "sinopse": "O verdadeiro campeão de Hogwarts. Um exemplo de ética, trabalho duro e espírito esportivo que uniu as casas.",
+    "porque": "Sua nobreza é natural. Você valoriza o mérito e o esforço honesto, tratando amigos e rivais com a mesma dignidade e respeito."
+  },
+  {
+    "id": "minerva_mcgonagall",
+    "nome": "Minerva McGonagall",
+    "casa": 1,
+    "sangue": 3,
+    "caracteristica": 3,
+    "sinopse": "A personificação da autoridade e da competência. Uma animaga poderosa que defende Hogwarts com cada gota de sua magia.",
+    "porque": "Você é disciplinado e justo. Sua seriedade impõe respeito, mas por trás da regra há uma proteção feroz por aqueles sob sua responsabilidade."
+  },
+  {
+    "id": "remo_lupin",
+    "nome": "Remo Lupin",
+    "casa": 1,
+    "sangue": 3,
+    "caracteristica": 3,
+    "sinopse": "O lobisomem sábio e gentil. Um professor amado que ensinou que nossos medos podem ser vencidos com um sorriso e um pouco de chocolate.",
+    "porque": "Você é calmo e resiliente. Apesar de suas lutas pessoais, você escolhe ser uma luz para os outros, usando sua sabedoria para guiar e curar."
+  },
+  {
+    "id": "gina_weasley",
+    "nome": "Gina Weasley",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 1,
+    "sinopse": "Uma bruxa poderosa e independente. Deixou de ser a 'irmã do Rony' para se tornar uma das guerreiras mais audazes da Tropa.",
+    "porque": "Você é ousado e direto. Não espera que as coisas aconteçam; você as faz acontecer com determinação e uma pitada de temperamento forte."
+  },
+  {
+    "id": "ninfadora_tonks",
+    "nome": "Ninfadora Tonks",
+    "casa": 4,
+    "sangue": 3,
+    "caracteristica": 1,
+    "sinopse": "Uma Aurora metamorfomaga. Rebelde, desastrada e incrivelmente corajosa, quebrando padrões de como um bruxo de elite deve se comportar.",
+    "porque": "Sua autenticidade é radiante. Você não tem medo de mudar sua aparência, mas sua essência leal e divertida permanece inabalável."
+  },
+  {
+    "id": "lucio_malfoy",
+    "nome": "Lúcio Malfoy",
+    "casa": 2,
+    "sangue": 2,
+    "caracteristica": 2,
+    "sinopse": "O epítome da influência e do status. Um homem que entende o poder das conexões e da riqueza no mundo bruxo.",
+    "porque": "Você é calculista e sofisticado. Valoriza o poder e a tradição, sabendo exatamente como navegar nas esferas sociais para manter sua autoridade."
+  },
+  {
+    "id": "dobby",
+    "nome": "Dobby",
+    "casa": 4,
+    "sangue": 1,
+    "caracteristica": 4,
+    "sinopse": "O elfo livre. Um herói que encontrou força na liberdade e sacrificou tudo para proteger o bruxo que lhe deu uma meia.",
+    "porque": "Sua gratidão e bravura são puras. Você prova que não importa o tamanho ou a origem, o que define alguém é a coragem de ser livre."
+  },
+  {
+    "id": "hagrid",
+    "nome": "Rúbeo Hagrid",
+    "casa": 1,
+    "sangue": 3,
+    "caracteristica": 4,
+    "sinopse": "O guardião das chaves. Um meio-gigante com um amor infinito por todas as criaturas, por mais perigosas que sejam.",
+    "porque": "Sua empatia é vasta. Você enxerga beleza e bondade onde os outros sentem medo, tornando-se o protetor natural dos incompreendidos."
+  },
+  {
+    "id": "fred_jorge",
+    "nome": "Fred & Jorge Weasley",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 4,
+    "sinopse": "Os gênios do entretenimento. Transformaram o riso em uma forma de resistência contra a tirania em tempos de guerra.",
+    "porque": "Você é criativo e empreendedor. Acredita que a vida deve ser vivida com alegria e que o humor é a ferramenta mais poderosa para quebrar correntes."
+  },
+  {
+    "id": "cho_chang",
+    "nome": "Cho Chang",
+    "casa": 3,
+    "sangue": 3,
+    "caracteristica": 1,
+    "sinopse": "A apanhadora da Corvinal. Uma bruxa sensível e talentosa que lutou bravamente mesmo enquanto lidava com grandes perdas.",
+    "porque": "Você é emocionalmente profundo e resiliente. Consegue manter sua dignidade e coragem mesmo quando seu coração está pesado."
+  },
+  {
+    "id": "fleur_delacour",
+    "nome": "Fleur Delacour",
+    "casa": 4,
+    "sangue": 3,
+    "caracteristica": 1,
+    "sinopse": "A campeã de Beauxbatons. Mostrou que a beleza é apenas superficial e que sua verdadeira força reside na lealdade à sua família.",
+    "porque": "Você é determinado e protetor. Sua aparência elegante esconde uma guerreira feroz que defende ferozmente aqueles que ama."
+  },
+  {
+    "id": "gilderoy_lockhart",
+    "nome": "Gilderoy Lockhart",
+    "casa": 3,
+    "sangue": 3,
+    "caracteristica": 2,
+    "sinopse": "O mestre do marketing. Um bruxo que, embora sem habilidades reais, conquistou o mundo com carisma e histórias inventadas.",
+    "porque": "Você valoriza a imagem e o reconhecimento. Sabe como encantar as pessoas e entende que a percepção às vezes é mais poderosa que a realidade."
+  },
+  {
+    "id": "dolores_umbridge",
+    "nome": "Dolores Umbridge",
+    "casa": 2,
+    "sangue": 3,
+    "caracteristica": 2,
+    "sinopse": "A burocrata impiedosa. Usou a ordem e as leis como armas para impor sua própria visão cruel de mundo.",
+    "porque": "Você é focado em regras e controle. Acredita na ordem absoluta e na hierarquia, agindo com precisão implacável para manter o sistema que defende."
+  },
+  {
+    "id": "molly_weasley",
+    "nome": "Molly Weasley",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 4,
+    "sinopse": "A matriarca da Tropa. Uma bruxa que transformou o amor materno no feitiço protetor mais poderoso de todos.",
+    "porque": "Sua força vem do afeto. Você é o pilar que sustenta os outros, mas não se engane: se tocarem na sua família, você se torna a guerreira mais temida."
+  },
+  {
+    "id": "arthur_weasley",
+    "nome": "Arthur Weasley",
+    "casa": 1,
+    "sangue": 2,
+    "caracteristica": 4,
+    "sinopse": "O entusiasta dos trouxas. Alguém que encontra fascínio no comum e que manteve sua integridade mesmo sob pressão ministerial.",
+    "porque": "Sua curiosidade é sua virtude. Você valoriza a simplicidade e a honestidade, mantendo-se fiel aos seus princípios morais acima de qualquer ambição."
+  },
+  {
+    "id": "regulo_black",
+    "nome": "Régulo Black",
+    "casa": 2,
+    "sangue": 2,
+    "caracteristica": 2,
+    "sinopse": "O herói esquecido da Sonserina. Descobriu os segredos mais sombrios do Lorde das Trevas e deu sua vida para tentar detê-lo.",
+    "porque": "Você é capaz de redenção. Possui a inteligência para perceber seus erros e a coragem monumental de corrigi-los em silêncio, sem buscar glória."
+  },
+  {
+    "id": "xenofilio_lovegood",
+    "nome": "Xenofílio Lovegood",
+    "casa": 3,
+    "sangue": 3,
+    "caracteristica": 4,
+    "sinopse": "O editor d'O Pasquim. Um homem de crenças inabaláveis no impossível e um amor desesperado por sua filha.",
+    "porque": "Você acredita no extraordinário. Sua mente é aberta a possibilidades que outros descartam, e seus sentimentos guiam suas ações mais que a lógica."
+  },
+  {
+    "id": "alastor_moody",
+    "nome": "Alastor 'Olho-Tonto' Moody",
+    "casa": 1,
+    "sangue": 3,
+    "caracteristica": 1,
+    "sinopse": "O maior Auror da história. Um veterano de cicatrizes profundas que vive sob o lema: Vigilância Constante!",
+    "porque": "Você é experiente e precavido. Sua vida o ensinou a nunca baixar a guarda e a estar sempre dez passos à frente de qualquer ameaça."
+  },
+  {
+    "id": "sibila_trelawney",
+    "nome": "Sibila Trelawney",
+    "casa": 3,
+    "sangue": 3,
+    "caracteristica": 3,
+    "sinopse": "A vidente de Hogwarts. Alguém que carrega o fardo da profecia e a solidão de nem sempre ser compreendida.",
+    "porque": "Sua intuição é aguçada. Você sente coisas que os outros ignoram e possui uma conexão com o espiritual que define sua jornada."
+  }
+]
