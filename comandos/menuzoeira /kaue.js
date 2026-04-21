@@ -80,7 +80,7 @@ module.exports = {
         homenagem += `┃\n`;
         homenagem += `┃ 🎖️ *ACKERMAN-BOT* ⚔️\n`;
         homenagem += `╰━━━━━━━━━━━━━━━━━━━━╯\n\n`;
-        homenagem += `*HOMENAGEM EXCLUSIVA DO BENNY* 😂`;
+        homenagem += `*BY: BENNY*`;
 
         return reply(homenagem);
     }

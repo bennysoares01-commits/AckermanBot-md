@@ -27,6 +27,7 @@ module.exports = {
         texto += `┃  ⚡ ┃ *${prefixo}ping* (Velocidade)\n`;
         texto += `┃  🎨 ┃ *${prefixo}sticker* (Figurinhas)\n`;
         texto += `┃  ✏️ ┃ *${prefixo}rename* (Mudar créditos)\n`;
+        texto += `┃  🗓️ ┃ *${prefixo}idade* (tempo vivo)\n`;
         texto += `┃  ⛩️ ┃ *${prefixo}infoanime* (Dados de Anime)\n`;
         texto += `┃  🌐 ┃ *${prefixo}wiki* (Pesquisar na Wikipedia)\n`;
         texto += `┃  🎼 ┃ *${prefixo}letra* (Letras de músicas)\n`;
