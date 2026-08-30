@@ -13,7 +13,7 @@
 ---
 
 ## 🎖️ SOBRE O PROJETO
-O **Ackerman-Bot** é uma automação de alta performance para WhatsApp, desenvolvida em Node.js com a biblioteca Baileys. Focado em velocidade, segurança e entretenimento, ele traz a essência da Elite de Attack on Titan para o seu grupo.
+O **Ackerman-Bot** é uma automação de alta performance para WhatsApp, desenvolvida em Node.js com a biblioteca Baileys. Focado em velocidade, segurança e entretenimento, ele traz a essência de Attack on Titan para o seu grupo.
 
 > _"A força não vem da capacidade física, mas de uma vontade indomável."_ — **Benny (Criador)** ⚔️
 
@@ -36,9 +36,8 @@ Este repositório possui **Proteção Ativa de Créditos**:
 ---
 
 ## 👨‍💻 DESENVOLVEDOR (COMMANDER)
-O cara por trás das linhas de código é o **Benny**. Entre em contato para parcerias, compra de bots personalizados ou suporte:
+Me chamo Benny Soares, sou do Pará, tenho 21 anos. Sou desenvolvedor do AckermanBot-md
 
-* **📱 WhatsApp:** [+55 91 8162-6178](https://wa.me/559181626178)
 * **📸 Instagram:** [@bennysuarezzz](https://instagram.com/bennysuarezzz)
 * **🛠️ GitHub:** [BennySoares01](https://github.com/bennysoares01-commits)
 
